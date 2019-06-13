@@ -7,4 +7,6 @@ manuals:
 3. https://www.tensorflow.org/tutorials/keras/basic_classification
 
 useful links:
-1. https://github.com/zalandoresearch/fashion-mnist
+1. https://github.com/tensorflow/docs/blob/master/site/ru/tutorials/keras/basic_classification.ipynb 
+2. https://github.com/zalandoresearch/fashion-mnist
+
