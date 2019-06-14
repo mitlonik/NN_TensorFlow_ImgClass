@@ -9,4 +9,4 @@ manuals:
 useful links:
 1. https://github.com/tensorflow/docs/blob/master/site/ru/tutorials/keras/basic_classification.ipynb 
 2. https://github.com/zalandoresearch/fashion-mnist
-
+3. http://yann.lecun.com/exdb/mnist/
