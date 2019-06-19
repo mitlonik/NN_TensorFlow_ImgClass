@@ -1,6 +1,8 @@
 # NN_TensorFlow_ImgClass
 Neural network using TensorFlow: image classification
 
+Fashion MNIST
+
 manuals:
 1. https://m.habr.com/ru/post/426797/
 2. https://habr.com/ru/post/454034/
